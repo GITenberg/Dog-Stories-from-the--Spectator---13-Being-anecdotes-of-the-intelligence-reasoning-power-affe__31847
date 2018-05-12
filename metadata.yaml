@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2087'
     url: http://www.gutenberg.org/2009/agents/2087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31847#Dog-Stories-from-the--Spectator---13-Being-anecdotes-of-the-intelligence-reasoning-power-affe_
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2010-03-31'
 gutenberg_type: Text
